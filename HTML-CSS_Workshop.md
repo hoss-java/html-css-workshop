@@ -56,7 +56,7 @@ Use **semantic HTML elements** to organize the content and **CSS selectors** to 
 - [x] The webpage includes **at least one form**  
 - [x] The page is styled using **CSS selectors**  
 - [x] The webpage is **deployed** using GitHub Pages  
-- [] **Write a report** in **`README.md`** describing what steps you completed to build the project, including how you structured the HTML and how you applied CSS.
+- [x] **Write a report** in **`README.md`** describing what steps you completed to build the project, including how you structured the HTML and how you applied CSS.
 
 
 ---
