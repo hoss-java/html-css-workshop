@@ -24,5 +24,5 @@ Steps:
 > git push -u origin main
 >```
 8. Publishing the main branch to https://hoss-java.github.io/html-css-workshop/ (by configuring settings on https://github.com/hoss-java/html-css-workshop/settings/pages)
-9. Fixing the page items' isusses
-10. 
+9. Fixing the page items' isusses - There was some issue to use plain texts with in `<dev>` , I didn't find what was the issue but the issue was fixed by removing spaces!
+10. Adding form and table to the page

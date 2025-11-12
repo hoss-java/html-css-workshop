@@ -48,15 +48,15 @@ Use **semantic HTML elements** to organize the content and **CSS selectors** to 
 ---
 
 ## Deliverables (check before submitting)
-- [ ] Make multiple commits with descriptive messages that explain what and why, not just how.
+- [x] Make multiple commits with descriptive messages that explain what and why, not just how.
 - [x] The repository is **public** on GitHub  
 - [x] The repository contains `index.html` and `styles.css`  
-- [ ] The webpage includes a **header**, **main**, and **footer**  
-- [ ] The webpage includes **at least one table**  
-- [ ] The webpage includes **at least one form**  
+- [x] The webpage includes a **header**, **main**, and **footer**  
+- [x] The webpage includes **at least one table**  
+- [x] The webpage includes **at least one form**  
 - [x] The page is styled using **CSS selectors**  
 - [x] The webpage is **deployed** using GitHub Pages  
-- [ ] **Write a report** in **`README.md`** describing what steps you completed to build the project, including how you structured the HTML and how you applied CSS.
+- [] **Write a report** in **`README.md`** describing what steps you completed to build the project, including how you structured the HTML and how you applied CSS.
 
 
 ---

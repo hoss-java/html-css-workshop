@@ -112,6 +112,16 @@
     font-style: italic;
   }
 
+  div.content_section_text form{
+    padding: 10px 8px 4px 20px;
+    color: #000000;
+    font-size: 100%;
+
+    border-width: 1px;
+    border-style: dotted;
+    border-color: #000000;
+  }
+
   div.content_section_text p {
     margin-bottom: 6px;
   }
