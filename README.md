@@ -14,3 +14,12 @@ Steps:
 > > git commit --amend
 > git push -u origin main
 >```
+5. Creating an css file to use within `index.html`
+6. Update `index.html` with a page to indicate statuses of Java course lectures, Workshops and projects
+7. Committing and pushing changes (no form has been implemented yet!)
+>```
+> git st
+> git add git add README.md index.html styles.css
+> git commit -m "[W45-005] Html & css Workshop files- update index and css files"
+> git push -u origin main
+>```
