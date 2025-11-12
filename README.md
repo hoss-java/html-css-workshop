@@ -20,6 +20,8 @@ Steps:
 >```
 > git st
 > git add git add README.md index.html styles.css
-> git commit -m "[W45-005] Html & css Workshop files- update index and css files"
+> git commit -m "[W45-005] Html & css Workshop files - update index and css files"
 > git push -u origin main
 >```
+8. Publishing the main branch to https://hoss-java.github.io/html-css-workshop/ (by configuring settings on https://github.com/hoss-java/html-css-workshop/settings/pages)
+9. Fixing the page items' isusses

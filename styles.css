@@ -94,6 +94,7 @@
   div.content_section_text {
     padding: 4px 8px 4px 8px;
     height: 250px;
+    width: 100%;
 
     color: #000000;
     font-size: 100%;
