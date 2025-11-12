@@ -1,5 +1,5 @@
 /* styles.css */
-{
+ {
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
   }
@@ -94,7 +94,6 @@
   div.content_section_text {
     padding: 4px 8px 4px 8px;
     height: 250px;
-    width: 100%;
 
     color: #000000;
     font-size: 100%;
@@ -142,13 +141,11 @@
 
   div.section_header_grey {
     background-color: #9F9386;
-    width: 770px;
   }
 
   .floating_element {
     position: relative;
     float: left;
-    width: 770px;
   }
 
   div.table_of_contents_item a,

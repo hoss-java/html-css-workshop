@@ -25,3 +25,4 @@ Steps:
 >```
 8. Publishing the main branch to https://hoss-java.github.io/html-css-workshop/ (by configuring settings on https://github.com/hoss-java/html-css-workshop/settings/pages)
 9. Fixing the page items' isusses
+10. 
