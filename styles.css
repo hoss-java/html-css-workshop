@@ -147,6 +147,7 @@
   .floating_element {
     position: relative;
     float: left;
+    width: 100%;
   }
 
   div.table_of_contents_item a,
