@@ -3,7 +3,7 @@
 Steps:
 1. Creating a new repo named `html-css-workshop` on my Github page (It couldn't create locally due to multiple github accounts.
 )
-2. Cloning the created repo by using the command `gh repo clone hoss-java/html-css-workshop`
+2. Cloning the created repo by using the command `git clone git@github.com:hoss-java/html-css-workshop.git`
 3. Creating empty files
 4. Committing and pushing empty files to the repo
 >```
