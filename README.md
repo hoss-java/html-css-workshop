@@ -35,6 +35,6 @@ flowchart TD
   B -- No  --> D{A = B}
   D -- Yes --> E[Display A and B]
   D -- No  --> F{Display B}
-  C --> Z
+  E --> Z
   F --> Z
 ```
