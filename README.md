@@ -27,7 +27,7 @@ Steps:
 9. Fixing the page items' isusses - There was some issue to use plain texts with in `<dev>` , I didn't find what was the issue but the issue was fixed by removing spaces!
 10. Adding form and table to the page
 
-```
+```mermaid
 flowchart TD
   A[Start] --> B{Decision}
   B -- Yes --> C[Action 1]
