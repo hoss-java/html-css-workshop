@@ -26,15 +26,3 @@ Steps:
 8. Publishing the main branch to https://hoss-java.github.io/html-css-workshop/ (by configuring settings on https://github.com/hoss-java/html-css-workshop/settings/pages)
 9. Fixing the page items' isusses - There was some issue to use plain texts with in `<dev>` , I didn't find what was the issue but the issue was fixed by removing spaces!
 10. Adding form and table to the page
-
-```mermaid
-flowchart TD
-  A[Start] --> B{A > B}
-  B -- Yes --> C[Display A]
-  C --> Z[End]
-  B -- No  --> D{A = B}
-  D -- Yes --> E[Display A and B]
-  D -- No  --> F{Display B}
-  E --> Z
-  F --> Z
-```
