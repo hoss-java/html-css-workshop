@@ -29,9 +29,12 @@ Steps:
 
 ```mermaid
 flowchart TD
-  A[Start] --> B{Decision}
-  B -- Yes --> C[Action 1]
-  B -- No  --> D[Action 2]
-  C --> E[End]
-  D --> E
+  A[Start] --> B{A > B}
+  B -- Yes --> C[Display A]
+  C --> Z[End]
+  B -- No  --> D{A = B}
+  D -- Yes --> E[Display A and B]
+  D -- No  --> F{Display B}
+  C --> Z
+  F --> Z
 ```
